@@ -19,3 +19,9 @@ F-string means Formatted String Literal. It is used to easily put variables or e
 Escape Sequence
 String- Transformations 
 String- Slicing & Indexing
+String- cleaning
+String- Search
+String- Validate
+String- Join
+String- Format
+String- zfill
